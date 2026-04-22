@@ -1,0 +1,2 @@
+# xtcips
+Pesaran panel unit-root test in the presence of cross-section dependence Use xtcips With STATA 19
