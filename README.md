@@ -1,6 +1,8 @@
 # xtcips
 Pesaran panel unit-root test in the presence of cross-section dependence Use xtcips With STATA 19
 
+https://www.youtube.com/watch?v=Bw7odmuXhsI
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
